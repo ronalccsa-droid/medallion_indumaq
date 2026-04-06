@@ -1,0 +1,41 @@
+tipo_equipo,estado,cantidad,horas_prom,efic_avg
+Compactadora,Desconocido,464,1012.1,73.4
+Compactadora,En espera,390,1062.5,71.4
+Compactadora,Falla crítica,429,1070.0,70.9
+Compactadora,Mantenimiento,396,1101.7,73.1
+Compactadora,Operativo,826,1123.6,72.9
+Excavadora,Desconocido,397,1097.1,72.3
+Excavadora,En espera,424,1143.7,71.9
+Excavadora,Falla crítica,389,1102.4,72.6
+Excavadora,Mantenimiento,400,1088.0,70.6
+Excavadora,Operativo,787,1079.0,73.8
+Grúa,Desconocido,443,1121.8,73.9
+Grúa,En espera,394,1108.1,72.9
+Grúa,Falla crítica,411,1135.2,73.3
+Grúa,Mantenimiento,387,1084.7,70.5
+Grúa,Operativo,770,1121.3,72.5
+Motoniveladora,Desconocido,423,1109.9,70.6
+Motoniveladora,En espera,427,1093.8,74.1
+Motoniveladora,Falla crítica,411,1040.1,73.5
+Motoniveladora,Mantenimiento,372,1100.7,73.1
+Motoniveladora,Operativo,795,1104.9,72.5
+Pavimentadora,Desconocido,389,1082.8,71.3
+Pavimentadora,En espera,427,1053.2,72.3
+Pavimentadora,Falla crítica,441,1138.4,71.1
+Pavimentadora,Mantenimiento,432,1103.8,73.2
+Pavimentadora,Operativo,811,1137.0,73.7
+Retroexcavadora,Desconocido,389,1100.1,73.3
+Retroexcavadora,En espera,389,1061.1,73.3
+Retroexcavadora,Falla crítica,398,1130.0,72.1
+Retroexcavadora,Mantenimiento,416,1098.8,72.5
+Retroexcavadora,Operativo,823,1115.1,73.3
+Rodillo,Desconocido,392,1120.3,71.7
+Rodillo,En espera,415,1094.4,72.9
+Rodillo,Falla crítica,408,1052.7,71.8
+Rodillo,Mantenimiento,416,1073.4,71.7
+Rodillo,Operativo,778,1132.6,72.5
+Volquete,Desconocido,370,1108.7,72.0
+Volquete,En espera,376,1087.9,72.3
+Volquete,Falla crítica,404,1066.7,72.0
+Volquete,Mantenimiento,407,1103.3,71.4
+Volquete,Operativo,776,1063.9,73.5

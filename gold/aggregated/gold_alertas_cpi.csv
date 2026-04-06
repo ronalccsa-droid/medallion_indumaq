@@ -1,0 +1,98 @@
+id_proyecto,region,estado,cpi,spi,contrato_soles,avance_pct
+PRY-0356,Arequipa,Planificado,0.5,0.91,9290797.64,81.7
+PRY-0194,Moquegua,En ejecución,0.512,0.855,14415586.77,33.8
+PRY-0508,Puno,Concluido,0.596,0.797,14150869.73,11.5
+PRY-0504,Tacna,Concluido,0.632,0.811,2696547.11,82.8
+PRY-0276,Arequipa,Planificado,0.639,0.99,12367121.35,11.3
+PRY-0250,Tacna,Paralizado,0.65,0.687,553791.72,46.2
+PRY-0132,Arequipa,Planificado,0.652,0.912,1932018.36,66.1
+PRY-0161,Cusco,Concluido,0.661,1.019,9627187.79,61.4
+PRY-0401,Arequipa,Planificado,0.663,0.978,7091553.07,64.8
+PRY-0043,Arequipa,Planificado,0.666,0.983,10174613.25,61.5
+PRY-0107,Tacna,Paralizado,0.691,0.983,6809558.8,46.1
+PRY-0023,Arequipa,En ejecución,0.694,1.104,14480906.08,36.7
+PRY-0158,Moquegua,Concluido,0.7,0.792,3303352.29,50.4
+PRY-0126,Arequipa,Paralizado,0.702,0.814,14978635.38,59.1
+PRY-0028,Puno,Paralizado,0.704,1.202,5984883.35,19.1
+PRY-0461,Arequipa,En ejecución,0.705,1.015,634095.92,60.8
+PRY-0349,Moquegua,Paralizado,0.706,0.823,9533040.68,97.0
+PRY-0162,Arequipa,Concluido,0.715,0.832,11116062.18,42.0
+PRY-0247,Puno,Concluido,0.72,0.898,14208749.07,100.0
+PRY-0440,Arequipa,Concluido,0.723,1.0,7929062.61,56.8
+PRY-0262,Puno,Planificado,0.728,0.697,11272025.24,60.3
+PRY-0512,Arequipa,Planificado,0.73,0.881,569417.09,31.5
+PRY-0323,Moquegua,En ejecución,0.73,0.941,4362370.68,32.8
+PRY-0417,Puno,Concluido,0.732,0.865,3762523.12,76.9
+PRY-0490,Moquegua,En ejecución,0.733,0.755,7661049.56,28.7
+PRY-0232,Moquegua,Concluido,0.735,0.987,2866134.73,94.6
+PRY-0476,Arequipa,Concluido,0.735,0.862,9843758.54,45.3
+PRY-0185,Moquegua,Planificado,0.737,0.988,1630895.86,57.0
+PRY-0513,Arequipa,Planificado,0.739,0.917,8529608.07,7.0
+PRY-0230,Puno,Planificado,0.743,0.918,13544949.7,75.7
+PRY-0252,Moquegua,En ejecución,0.749,0.931,2745190.2,92.7
+PRY-0211,Moquegua,Concluido,0.75,0.893,5970399.52,7.3
+PRY-0368,Arequipa,Paralizado,0.752,0.772,5048578.28,33.1
+PRY-0153,Cusco,Concluido,0.752,1.097,13282725.42,22.1
+PRY-0215,Cusco,Paralizado,0.755,1.084,3711607.59,61.2
+PRY-0272,Puno,En ejecución,0.757,1.034,6130830.91,27.4
+PRY-0130,Moquegua,En ejecución,0.757,0.74,5909290.67,77.5
+PRY-0131,Arequipa,Concluido,0.757,0.951,3354354.79,44.8
+PRY-0009,Puno,En ejecución,0.759,1.007,9820648.94,67.0
+PRY-0404,Tacna,Paralizado,0.764,0.825,7085396.39,91.2
+PRY-0324,Arequipa,En ejecución,0.766,0.917,5844684.34,70.1
+PRY-0112,Tacna,Planificado,0.766,0.914,785528.82,84.5
+PRY-0335,Arequipa,En ejecución,0.766,1.108,8636253.45,27.0
+PRY-0049,Arequipa,En ejecución,0.767,1.137,3370750.6,98.3
+PRY-0056,Arequipa,Planificado,0.767,0.988,5100272.86,47.1
+PRY-0182,Arequipa,En ejecución,0.768,0.836,12097534.0,91.8
+PRY-0021,Arequipa,Planificado,0.772,1.001,14369889.52,85.8
+PRY-0516,Cusco,En ejecución,0.775,0.932,10622687.45,61.2
+PRY-0488,Arequipa,En ejecución,0.779,0.843,9842330.1,8.2
+PRY-0373,Moquegua,En ejecución,0.784,0.997,5074244.78,80.1
+PRY-0342,Arequipa,En ejecución,0.786,0.927,728204.48,22.8
+PRY-0258,Arequipa,Planificado,0.787,0.86,12216715.43,15.1
+PRY-0320,Puno,Concluido,0.792,0.928,14700205.79,23.4
+PRY-0222,Arequipa,En ejecución,0.794,0.997,4040276.99,75.8
+PRY-0445,Arequipa,Paralizado,0.797,0.952,9447010.55,29.4
+PRY-0418,Tacna,En ejecución,0.798,0.98,12641232.45,96.7
+PRY-0075,Tacna,En ejecución,0.802,0.843,13644164.82,16.4
+PRY-0486,Cusco,En ejecución,0.803,0.744,8215339.93,77.4
+PRY-0019,Cusco,Paralizado,0.803,0.916,4725137.9,19.1
+PRY-0251,Moquegua,En ejecución,0.804,0.872,12753625.6,43.4
+PRY-0332,Moquegua,En ejecución,0.805,1.162,9602457.88,12.2
+PRY-0299,Moquegua,Concluido,0.806,0.896,13363407.38,27.8
+PRY-0212,Arequipa,Planificado,0.806,0.842,13927384.35,15.4
+PRY-0235,Arequipa,Paralizado,0.807,0.775,8704753.88,11.7
+PRY-0456,Tacna,Concluido,0.807,0.831,4396866.11,87.6
+PRY-0459,Cusco,Concluido,0.808,0.819,8848416.25,90.2
+PRY-0017,Arequipa,En ejecución,0.808,0.971,12541907.0,28.6
+PRY-0419,Moquegua,Paralizado,0.809,1.123,5240662.62,93.5
+PRY-0218,Moquegua,En ejecución,0.81,0.92,10253093.52,48.2
+PRY-0135,Arequipa,Planificado,0.811,0.94,10848907.51,15.9
+PRY-0338,Puno,Concluido,0.812,0.819,8430775.9,45.8
+PRY-0186,Arequipa,En ejecución,0.814,0.726,12171565.8,74.6
+PRY-0370,Moquegua,En ejecución,0.817,1.063,4874672.83,24.4
+PRY-0070,Tacna,Concluido,0.822,1.034,13194044.2,94.4
+PRY-0427,Cusco,Planificado,0.822,0.795,10156295.46,44.4
+PRY-0139,Cusco,Paralizado,0.825,0.85,6468583.66,95.4
+PRY-0159,Cusco,En ejecución,0.825,0.898,5525813.25,55.8
+PRY-0041,Cusco,Paralizado,0.829,0.85,7662206.21,97.3
+PRY-0169,Moquegua,En ejecución,0.83,1.116,13197537.92,78.7
+PRY-0136,Puno,Concluido,0.83,0.85,13773410.91,41.0
+PRY-0436,Arequipa,Paralizado,0.83,0.997,881659.36,76.0
+PRY-0359,Puno,Paralizado,0.831,0.999,5438767.34,71.9
+PRY-0391,Cusco,Planificado,0.832,1.006,6947067.72,71.7
+PRY-0423,Arequipa,Planificado,0.835,0.59,2211294.51,25.7
+PRY-0055,Arequipa,Concluido,0.835,0.872,11953107.8,52.6
+PRY-0174,Arequipa,En ejecución,0.836,0.924,9756261.98,95.4
+PRY-0457,Puno,En ejecución,0.838,0.995,2381558.03,11.7
+PRY-0074,Arequipa,Concluido,0.838,0.97,11203197.41,50.8
+PRY-0450,Arequipa,Paralizado,0.838,1.028,4654052.05,48.5
+PRY-0496,Cusco,Paralizado,0.838,0.887,4816982.74,81.4
+PRY-0350,Cusco,En ejecución,0.84,1.294,14361445.39,34.9
+PRY-0264,Arequipa,En ejecución,0.842,0.807,4651778.43,23.8
+PRY-0341,Cusco,En ejecución,0.844,1.116,3779846.36,84.6
+PRY-0291,Arequipa,En ejecución,0.844,0.858,5619586.93,10.4
+PRY-0365,Arequipa,Planificado,0.845,0.97,8557108.07,86.1
+PRY-0064,Cusco,En ejecución,0.847,1.003,2680071.47,9.0
+PRY-0026,Puno,En ejecución,0.848,1.076,5929002.77,55.4
